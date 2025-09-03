@@ -8,8 +8,8 @@
 body {
     width: 100%;
     height: 100vh;
-    background-image: url('images/1000647029.jpg');
     background: linear-gradient(7deg, #4321C0, #222BD9);
+    background-image: url('images/1000647029.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
